@@ -5,7 +5,7 @@
 > ⚖️ **For lawful education, development, repair, interoperability study, and authorized testing only.**
 > Own it. Have permission. Use the right antenna/accessory. Stay in the lab. Stop if the device behaves unexpectedly.
 
-📄 **The official PDF is the canonical guide:** [`M5Shark-Owner-Guide.pdf`](M5Shark-Owner-Guide.pdf) — this repository mirrors it as searchable, linkable documentation.
+📄 **Unofficial PDF version:** [`M5Shark-Owner-Guide.pdf`](M5Shark-Owner-Guide.pdf) — this repository mirrors it as searchable, linkable documentation.
 
 ---
 
